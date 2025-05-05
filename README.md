@@ -18,6 +18,22 @@ The following **required** functionality is completed:
 - [ ] Tapping the button changes the screen color to a random color
 
 ## App Brainstorming (Step 4)
+- Polytopia:
+1. navigation/animation of each warrior
+2. choices of different tribes and warriors
+- Google Calendar
+1. integration task and events
+2. collaboration and syncing friend's calendar
+- Dazz Cam
+1. choices of different "cameras"
+2. subscreen as you zoom in or zoom out
+- Retro
+1. easy accessibility to add and scroll through pictures
+2. weekly, monthly, and yearly recap of photos + ability to choose recap photos
+
+- App Idea: 
+Intergration of Retro app + iphone's live camera + iphone's journal and mood tracker function
+Like Retro, users will be able to and upload images each week, however instead of still pictures, live photos will be replayed in loop. Users will be able to journal privatley each week tagging the photos of the week. A mood tracker could be intergrated in the journal and the background color of weekly/monthly/yearly recap could have an option of the mood blends. With the live photo function, recaps could also be made into short one minute videos playing back the live photos. 
 
 ## Notes
 
