@@ -48,16 +48,6 @@
 			path = CodePath;
 			sourceTree = "<group>";
 		};
-		60B169C82DC0963D008718DD /* CodePathTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = CodePathTests;
-			sourceTree = "<group>";
-		};
-		60B169D22DC0963D008718DD /* CodePathUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = CodePathUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,8 +79,6 @@
 			isa = PBXGroup;
 			children = (
 				60B169B12DC0963C008718DD /* CodePath */,
-				60B169C82DC0963D008718DD /* CodePathTests */,
-				60B169D22DC0963D008718DD /* CodePathUITests */,
 				60B169B02DC0963C008718DD /* Products */,
 			);
 			sourceTree = "<group>";
@@ -143,9 +131,6 @@
 			dependencies = (
 				60B169C72DC0963D008718DD /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				60B169C82DC0963D008718DD /* CodePathTests */,
-			);
 			name = CodePathTests;
 			packageProductDependencies = (
 			);
@@ -165,9 +150,6 @@
 			);
 			dependencies = (
 				60B169D12DC0963D008718DD /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				60B169D22DC0963D008718DD /* CodePathUITests */,
 			);
 			name = CodePathUITests;
 			packageProductDependencies = (
