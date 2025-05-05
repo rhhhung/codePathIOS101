@@ -8,7 +8,7 @@ Submitted by: **Rachel Hung**
 
 **Name of your app** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -38,6 +38,8 @@ Like Retro, users will be able to and upload images each week, however instead o
 ## Notes
 
 Describe any challenges encountered while building the app.
+- The intergration of UI with code function was a bit confusing without the gif/video guidance. It took me time to locate where the functions and elements are.
+- Setting up the github repository also took some trials and errors as there were lots of merge errors
 
 ## License
 
