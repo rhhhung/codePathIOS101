@@ -6,7 +6,7 @@ codepath IOS101 prework submission
 
 Submitted by: **Rachel Hung**
 
-**Name of your app** is an app that... [TODO] 
+**CodePathIOS101** is an app that has a button that changes colors when pressed 
 
 Time spent: **3** hours spent in total
 
